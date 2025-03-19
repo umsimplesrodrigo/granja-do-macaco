@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+@media (max-width: 768px) {
+    body {
+        font-size: 16px;
+        padding: 10px;
+    }
+    
+    .container {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+body {
+    background-color: #161222;
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
+    color: #68b7b5;
+    text-align: center;
+    padding: 50px;
+}
+
+body p {
+    color: white;
+}
+
+#botaozin {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    transition: transform 0.3s ease;
+}
+
+input {
+    font-size: 16;
+    padding: 10px 20px;
+}
+
+#macacozin {
+    width: 200px;
+    padding: 150px;
+}
