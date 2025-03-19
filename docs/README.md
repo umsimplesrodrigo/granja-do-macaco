@@ -7,6 +7,6 @@ Receber temperatura via página web do firebase, que recebe do embarcado no wokw
 - **dht22**
 - **miniboard**
 ## Repository
-- [Web Monitadorador](https://umsimplesrodrigo.github.io/dht22-macaco/)
+- [Web Monitadorador](https://umsimplesrodrigo.github.io/granja-do-macaco/)
 - [Wokwi](https://wokwi.com/projects/425804100764032001)
 - [Banco Firebase](https://wokwi.com/projects/425148074290018305)
