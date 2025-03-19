@@ -5,6 +5,7 @@ Receber temperatura via página web do firebase, que recebe do embarcado no wokw
 - **led vermelha**
 - **transistor 220o**
 - **dht22**
+- **miniboard**
 ## Repository
 - [Web Monitadorador](https://umsimplesrodrigo.github.io/dht22-macaco/)
 - [Wokwi](https://wokwi.com/projects/425804100764032001)
