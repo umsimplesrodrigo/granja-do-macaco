@@ -1,4 +1,4 @@
-# granja-do-macaco
+# <img src="imagens/macaco-cirugiao-umsimples.png" width="70px"> granja-do-macaco 
 Receber temperatura via página web do firebase, que recebe do embarcado no wokwi.
 ## Components:
 - **esp32**
